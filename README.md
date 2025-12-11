@@ -7,6 +7,7 @@
 - Support for continuous, binary, and ordinal data
 - Direct control over pairwise correlations
 - Optional bounds for continuous variables
+
 **Planned:**
 - `PanelSimulator`: Repeated observations over time
 - Missing data patterns (MAR, MCAR, MNAR)
